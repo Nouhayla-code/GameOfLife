@@ -1,0 +1,18 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+#grid {
+  display: grid;
+}
+
+.cell {
+  background-color: #e0e0e0;
+  border: 1px solid #4b4a4a;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  aspect-ratio: 1 / 1;
+}
