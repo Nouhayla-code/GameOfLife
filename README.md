@@ -4,4 +4,4 @@ Implementeret features
 - Med start, stop og reset knapper
 - En generation tæller som opdateret griddet hvert 1/5 sekund
 
-github pages link :
+github pages link : https://nouhayla-code.github.io/GameOfLife/
